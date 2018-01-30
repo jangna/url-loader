@@ -59,7 +59,7 @@
     "memory-fs": "^0.4.1",
     "nsp": "^3.1.0",
     "pre-commit": "^1.2.2",
-    "prettier": "^1.9.2",
+    "prettier": "^1.10.2",
     "standard-version": "^4.2.0",
     "webpack": "^3.10.0",
     "webpack-defaults": "^2.0.0-rc.1"
