@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^5.2.5",
-    "@commitlint/config-angular": "^5.1.1",
+    "@commitlint/config-angular": "^11.0.0",
     "@webpack-contrib/eslint-config-webpack": "^2.0.2",
     "@webpack-contrib/test-utils": "^0.1.2",
     "babel-cli": "^6.26.0",
